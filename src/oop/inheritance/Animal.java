@@ -24,7 +24,7 @@ public class Animal {
 class Dog extends Animal {
     String plemeno;
 
-    void vydatZvuk() {}
+    void makeNoise() {}
 }
 
 
