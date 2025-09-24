@@ -1,8 +1,7 @@
-package basics;
+package oop.basics;
 
 import fileworks.DataImport;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
 public class ParseFile {
