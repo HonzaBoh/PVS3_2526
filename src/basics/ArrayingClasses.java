@@ -14,7 +14,7 @@ public class ArrayingClasses {
         personArray[2] = new Person("Karel", 22, 41.1);
         System.out.println(personArray[2].age);
 
-        //hezci:
+        //hezci :)
         ArrayList<Person> ppl = new ArrayList<>();
         ppl.add(new Person("NekdoDAlsi", 99, 21.1));
         ppl.get(0);
