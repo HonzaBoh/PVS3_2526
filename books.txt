@@ -1,0 +1,95 @@
+Bible: Starý zákon (Genesis),—,—,120
+Dekameron,Giovanni Boccaccio,1353,900
+Romeo a Julie,William Shakespeare,1597,160
+Hamlet,William Shakespeare,1603,220
+Zkrocení zlé ženy,William Shakespeare,1594,180
+Lakomec,Molière,1668,120
+Důmyslný rytíř Don Quijote de la Mancha,Miguel de Cervantes,1605,1000
+Bajky,Jean de La Fontaine,1668,400
+Robinson Crusoe,Daniel Defoe,1719,300
+Kristiánova legenda,—,10. století,80
+Kronika česká,Václav Hájek z Libočan,1541,550
+Labyrint světa a ráj srdce,Jan Amos Komenský,1623,220
+Chrám Matky Boží v Paříži,Victor Hugo,1831,500
+Otec Goriot,Honoré de Balzac,1835,320
+Revizor,Nikolaj Vasiljevič Gogol,1836,150
+Oliver Twist,Charles Dickens,1838,480
+Jáma a kyvadlo (výbor povídek),Edgar Allan Poe,1842,200
+Tři mušketýři,Alexandre Dumas,1844,700
+Paní Bovaryová,Gustave Flaubert,1857,400
+Květy zla,Charles Baudelaire,1857,300
+Zločin a trest,Fjodor Michajlovič Dostojevskij,1866,600
+Alenka v říši divů (a Za zrcadlem),Lewis Carroll,1865,320
+Zabiják,Émile Zola,1877,500
+Kulička (a jiné povídky),Guy de Maupassant,1880,150
+Ostrov pokladů,Robert Louis Stevenson,1883,320
+Ohlas písní ruských,František Ladislav Čelakovský,1829,150
+Ohlas písní českých,František Ladislav Čelakovský,1839,200
+Tyrolské elegie,Karel Havlíček Borovský,1850,80
+Máj,Karel Hynek Mácha,1836,120
+Kytice z pověstí národních,Karel Jaromír Erben,1853,240
+Babička,Božena Němcová,1855,360
+Povídky malostranské,Jan Neruda,1878,360
+Balady a romance,Jan Neruda,1883,200
+Svatý Xaverius,Jakub Arbes,1873,150
+Nový epochální výlet pana Broučka, tentokráte do 15. století,Svatopluk Čech,1888,220
+Selské písně a České znělky,Josef Václav Sládek,1890,200
+Tři legendy o krucifixu,Julius Zeyer,1880,160
+Staré pověsti české,Alois Jirásek,1894,400
+Divotvorný klobouk,Václav Kliment Klicpera,1826,120
+Strakonický dudák,Josef Kajetán Tyl,1847,120
+Noc na Karlštejně,Jaroslav Vrchlický,1884,150
+Maryša,Alois a Vilém Mrštíkové,1894,120
+Na západní frontě klid,Erich Maria Remarque,1929,300
+Lolita,Vladimir Nabokov,1955,340
+Malý princ,Antoine de Saint-Exupéry,1943,120
+Horalka,Alberto Moravia,1957,200
+Egypťan Sinuhet,Mika Waltari,1945,800
+Petr a Lucie,Romain Rolland,1920,120
+Stařec a moře,Ernest Hemingway,1952,130
+Proměna,Franz Kafka,1915,120
+Hlava XXII,Joseph Heller,1961,460
+Na cestě,Jack Kerouac,1957,320
+Pán prstenů: Společenstvo prstenu,J. R. R. Tolkien,1954,480
+Sophiina volba,William Styron,1979,640
+Jméno růže,Umberto Eco,1980,550
+Farma zvířat,George Orwell,1945,120
+Kaligramy (Básně — obrazy),Guillaume Apollinaire,1918,200
+Višňový sad,Anton Pavlovič Čechov,1904,120
+Pygmalion,George Bernard Shaw,1912,160
+Kočka na rozpálené plechové střeše,Tennessee Williams,1955,180
+Osudy dobrého vojáka Švejka za světové války,Jaroslav Hašek,1921,750
+Golet v údolí,Ivan Olbracht,1937,200
+Rozmarné léto,Vladislav Vančura,1926,120
+Cirkus Humberto,Eduard Bass,1941,600
+Bylo nás pět,Karel Poláček,1946,180
+Život s hvězdou,Jiří Weil,1949,200
+Spalovač mrtvol,Ladislav Fuks,1967,180
+Adelheid,Václav Kaplický Körner,1967,200
+Milenci a vrazi,Vladimír Páral,1969,400
+Mladý muž a bílá velryba,Vladimír Páral,1973,320
+Ostře sledované vlaky,Bohumil Hrabal,1965,120
+Obsluhoval jsem anglického krále,Bohumil Hrabal,1971,280
+Směšné lásky,Milan Kundera,1968,260
+Nesnesitelná lehkost bytí,Milan Kundera,1984,340
+Zbabělci,Josef Škvorecký,1958,400
+Němá barikáda,Jan Drda,1946,220
+Smrt krásných srnců,Ota Pavel,1971,160
+Přítelkyně z domu smutku,Eva Kantůrková,1984,400
+Báječná léta pod psa,Michal Viewegh,1992,280
+Po nás ať přijde potopa!,František Gellner,1901,120
+Slezské písně,Petr Bezruč,1909,220
+Těžká hodina,Jiří Wolker,1922,120
+Na vlnách TSF,Jaroslav Seifert,1925,120
+Edison,Vítězslav Nezval,1928,120
+S lodí, jež dováží čaj a kávu,Konstantin Biebl,1927,120
+Hirošima,František Hrubín,1946,80
+Nové mýty,Josef Kainar,1946,160
+Blues pro bláznivou holku,Václav Hrabě,1965,120
+R.U.R.,Karel Čapek,1920,160
+Matka,Karel Čapek,1938,120
+Bílá nemoc,Karel Čapek,1937,160
+Hordubal,Karel Čapek,1933,220
+Válka s mloky,Karel Čapek,1936,320
+Osel a stín,Jan Werich; Jiří Voskovec,1933,120
+Člověk z půdy,Jiří Suchý; Jiří Šlitr,1959,120
