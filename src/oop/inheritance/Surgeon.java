@@ -11,7 +11,8 @@ public class Surgeon extends Doctor {
         this.salary += SURGEON_BONUS;
     }
 
-    void surgery(){
+    public void surgery(){
+        salary += 45_000;
         System.out.println("Cutting open...");
     }
 }
