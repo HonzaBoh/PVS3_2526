@@ -11,6 +11,16 @@ public class Surgeon extends Doctor {
         this.salary += SURGEON_BONUS;
     }
 
+    @Override
+    public void diagnose() {
+        //udelej to jako doktor:
+//        super.diagnose();
+
+        //nebo:
+        System.out.println("Figuring out where to cut...");
+        //vlastni varianta
+    }
+
     public void surgery(){
         salary += 45_000;
         System.out.println("Cutting open...");
