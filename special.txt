@@ -1,0 +1,495 @@
+     1	Skills in Pills;2015;8.56;807
+     2	The Devil in I;2014;5.96;740
+     3	Freak On a Leash;1998;9.89;612
+     4	You Spin Me Round (Like A Record);1999;5.01;588
+     5	Ambiramus;2019;4.9;140
+     6	Empty Walls;2007;7.27;661
+     7	Kumba Yo !;2006;6.01;458
+     8	Plastic Heart;2017;8.39;226
+     9	The Eagle Flies Alone - edit;2017;4.72;706
+    10	333;2019;7.93;329
+    11	AUSLANDER;2019;8.54;915
+    12	Cyanide;2010;9.93;144
+    13	Turn It Up;2010;7.3;727
+    14	Rainbow;2014;6.53;128
+    15	This Is Why We Bleed;2016;7.34;439
+    16	Living In A Lie - Unplugged Version;2000;5.92;444
+    17	Beginning of the End;2003;9.31;215
+    18	A Rose for Epona;2012;6.34;136
+    19	Free;2003;9.25;455
+    20	The Beautiful people;2004;6.85;736
+    21	Sex Metal Barbie;2014;7.84;627
+    22	You and Not Me;2013;5.38;633
+    23	I am Shipping Up To Boston;2012;5.1;230
+    24	Cowboy;2015;5.55;822
+    25	Hail to the King;2013;9.34;723
+    26	L.U.I. - Life Under the Influence;2014;4.87;514
+    27	Interdimensional Summit;2018;7.6;892
+    28	When Legends Rise;2018;5.5;237
+    29	Is There Anybody out There?;2016;9.48;527
+    30	Wake Up;2018;9.79;777
+    31	Fish On;2015;4.99;163
+    32	Set Flame to the Night;2017;6.99;705
+    33	Soldier Side;2005;4.73;701
+    34	Dragula;1998;8.39;403
+    35	Poker Face;2011;7.29;444
+    36	Boomerang;2017;9.73;550
+    37	The War We Made;2020;9.05;822
+    38	The Call of the Mountains;2014;6.11;227
+    39	DEUTSCHLAND;2019;5.32;213
+    40	Your Betrayal;2010;9.52;747
+    41	Black Flag Army;2019;6.98;275
+    42	Golden Shower;2015;9.89;913
+    43	For the Swarm;2016;5.4;591
+    44	Augen auf!;2006;6.25;823
+    45	Blow Me Away - Soundtrack Version;2004;6.48;873
+    46	Mercury Gift;2012;8.23;607
+    47	Riot;2006;6.9;629
+    48	Loewenherz;2020;9.05;701
+    49	Nazis auf Speed;2013;4.52;874
+    50	Chemicals;2008;5.03;429
+    51	Rock in the City;2020;5.56;755
+    52	Take the Day!;2012;9.2;711
+    53	Drink;2014;9.48;747
+    54	Row Row Row;2020;7.11;523
+    55	Happy Little Boozer;2017;8.16;361
+    56	Transcendental Bean Exploration;2018;8.29;239
+    57	Blood of Heroes;2013;7.55;348
+    58	Heart To Stone;2020;9.38;860
+    59	Napisten Hava;2012;6.7;554
+    60	How to be a Pirate;2021;9.07;458
+    61	Night Drive;2020;9.12;230
+    62	Surma;2011;7.0;316
+    63	Hangover (Taio Cruz Cover);2014;4.77;853
+    64	Medical Emergency;2018;9.67;800
+    65	End of an Empire;2012;9.96;787
+    66	I Salute You;2020;9.74;598
+    67	Rasputin;2007;8.73;447
+    68	Fannybaws;2020;4.87;610
+    69	The Longing;2016;5.92;325
+    70	Kunnia;2012;8.02;149
+    71	Vulgaris Magistralis - Bonus Track;2008;7.48;421
+    72	Primo Victoria;2010;4.94;863
+    73	Wer kann segeln ohne Wind;2020;8.78;590
+    74	Killed 2 Deth by Bugs;2018;6.22;217
+    75	Destined Course;2016;4.74;339
+    76	Where the Angels Fly;2020;6.81;152
+    77	For Better Or For Worse;2014;6.72;415
+    78	The Sunk'n Noreian;2008;9.39;608
+    79	Ievan Polkka;2012;9.43;403
+    80	Stand Up and Fight;2012;8.05;254
+    81	Chariot of Fire;2020;6.73;832
+    82	Tequila;2011;4.8;497
+    83	Theme from a Beans Album;2018;6.66;579
+    84	Chop the Head Off;2016;6.57;679
+    85	No Grave but the Sea;2017;6.18;318
+    86	The March of the Varangian Guard;2012;8.58;644
+    87	Deathwatch Beetle Party;2021;4.8;296
+    88	Bring Us Pints of Beer;2009;7.64;281
+    89	Mittelfinger Richtung Zukunft;2020;6.25;702
+    90	Born to the Fight;1998;7.23;371
+    91	Fucked with an Anchor;2017;7.95;129
+    92	Help Is On The Way;2017;6.14;189
+    93	The Great Escape;2012;4.99;417
+    94	Midnight Breakfast;2018;4.56;440
+    95	Lempo;2015;6.31;660
+    96	Heart Full Of fire;2012;6.79;886
+    97	In My Sword I Trust;2012;8.65;820
+    98	Nancy the Tavern Wench;2018;6.4;811
+    99	Jack;2006;7.5;330
+   100	Son of Odin;2017;7.23;316
+   101	82nd All the Way;2020;8.84;912
+   102	Night Witches;2014;7.18;261
+   103	Battle from Within;2019;8.02;802
+   104	Yggdrasil;2017;9.58;610
+   105	Helix;2018;4.5;838
+   106	Carolus Rex - English Version;2012;4.77;430
+   107	Forever;2018;6.47;632
+   108	All Guns Blazing - Bonus;2016;7.49;153
+   109	Kaunaz Dagaz;2020;8.23;356
+   110	Nowhere;2018;4.74;853
+   111	Drop Dead Cynical;2014;6.17;280
+   112	Inside A Lullaby;2017;5.9;680
+   113	Fields of Sorrow;2017;9.35;551
+   114	I Am The Storm;2018;9.23;875
+   115	Powersnake;2020;4.59;627
+   116	Here To Save You;2017;4.63;450
+   117	Do or Die;2020;5.36;394
+   118	For Whom the Bell Tolls - Metallica Cover;2014;7.29;606
+   119	Letter To Myself;2017;5.95;823
+   120	Fields of Verdun;2019;7.77;268
+   121	Die, Die My Darling;1998;5.84;726
+   122	The Score;2018;9.17;546
+   123	Fire Blood and Steel;2017;8.35;437
+   124	Demons Are A Girl's Best Friend;2018;6.71;292
+   125	Brood of the Trickster;2020;7.35;368
+   126	Countdown;2018;9.52;591
+   127	Great War;2019;9.91;752
+   128	Rescue Ride;2017;7.47;459
+   129	The Fairies Dance;2019;8.04;425
+   130	Njord;2020;6.13;917
+   131	Dream;2018;9.2;535
+   132	Last Dying Breath;2016;9.45;707
+   133	Karma;2017;4.74;227
+   134	Gladiator;2018;9.21;252
+   135	The Red Baron;2019;9.98;267
+   136	Army Of The Night;2018;8.8;623
+   137	Defenders of Valhalla;2017;5.3;570
+   138	Silverseal;2019;5.4;844
+   139	Out of My Life;2019;8.25;152
+   140	Hel;2020;7.95;697
+   141	Raise Your Banner - Single Edit;2019;7.32;495
+   142	The Last Stand;2016;7.06;802
+   143	Dead To Me;2017;7.36;687
+   144	Maximize;2016;8.32;396
+   145	Heartrage;2017;6.32;475
+   146	Archangel;2020;5.01;356
+   147	82nd All the Way;2019;8.99;325
+   148	Masters of the Galaxy;2019;8.71;464
+   149	Prophecy of Ragnarok;2017;9.12;255
+   150	Empty Walls;2007;7.58;696
+   151	Straight Out the Gate;2013;6.35;203
+   152	Straight Out the Gate: (The Scott Stevens Remix) - Bonus Track;2014;5.91;236
+   153	Harakiri;2012;8.31;598
+   154	Sky Is Over;2007;9.12;720
+   155	Elasticity;2021;7.36;471
+   156	Gate 21;2010;6.25;198
+   157	Godzilla (feat. Serj Tankian);2019;6.38;784
+   158	Lie Lie Lie;2007;7.2;387
+   159	The Rains of Castamere;2019;6.78;179
+   160	Artsakh;2016;8.71;157
+   161	The Unthinking Majority;2007;9.46;734
+   162	Deafening Silence;2012;8.19;377
+   163	Coma;2005;9.29;893
+   164	Left of Center;2010;9.71;461
+   165	Elect the Dead;2007;5.23;789
+   166	Goodbye - Gate 21 - Rock Remix;2010;5.58;758
+   167	Cornucopia;2012;8.86;761
+   168	Wings of Summer;2010;9.4;243
+   169	Saving Us;2007;7.0;418
+   170	Ching Chime;2012;5.48;769
+   171	We Are One;2005;7.02;414
+   172	Gor Climbing;2018;6.38;525
+   173	Peace Be Revenged;2010;5.35;490
+   174	The Charade - Live;2010;9.56;424
+   175	Descendants of Those Who Survived 1915;2016;5.7;631
+   176	Uneducated Democracy;2012;7.36;137
+   177	Borders Are...;2010;5.62;377
+   178	Anush Basement Full Theme;2018;4.78;830
+   179	Hayastane;2020;4.98;737
+   180	Deserving?;2010;8.31;715
+   181	Weave On;2012;6.29;530
+   182	Forget Me Knot;2012;5.31;327
+   183	Anush Basement Theme;2018;4.68;478
+   184	Ari Im Sokhag;2016;9.69;314
+   185	Frenchy;2020;5.92;594
+   186	Butterfly;2012;6.02;566
+   187	Gor Searching;2018;9.88;333
+   188	The Family;2017;8.31;309
+   189	Figure It Out;2012;6.29;900
+   190	Reality TV;2012;5.68;799
+   191	Waiting Hare;2005;8.99;205
+   192	Chase;2020;9.14;724
+   193	Tyrant's Gratitude;2012;8.76;202
+   194	Occupied Tears;2012;6.12;513
+   195	Total Paranoia;2011;9.85;661
+   196	Paradise City;1987;8.03;231
+   197	Knockin' On Heaven's Door;1991;7.28;304
+   198	Sweet Child O' Mine;1987;5.14;300
+   199	November Rain;1991;6.06;656
+   200	Welcome To The Jungle;1987;7.81;418
+   201	Don't Cry (Original);1991;5.15;421
+   202	You Could Be Mine;1991;7.71;660
+   203	It's So Easy;1987;5.89;310
+   204	Patience;1988;5.0;509
+   205	Yesterdays;1991;6.88;353
+   206	Nightrain;1987;4.51;248
+   207	Live And Let Die;1991;9.68;678
+   208	Out Ta Get Me;1987;6.83;158
+   209	Since I Don't Have You;1993;9.46;499
+   210	Mr. Brownstone;1987;5.57;869
+   211	Used To Love Her;1988;4.79;675
+   212	My Michelle;1987;7.59;120
+   213	Civil War;1991;7.57;578
+   214	Think About You;1987;9.3;314
+   215	Shadow Of Your Love;2018;9.91;307
+   216	You're Crazy;1987;8.76;389
+   217	Estranged;1991;6.8;704
+   218	Anything Goes;1987;8.49;758
+   219	Rocket Queen;1987;9.31;357
+   220	Double Talkin' Jive;1991;9.11;415
+   221	There Was A Time;2008;7.32;677
+   222	14 Years;1991;9.76;599
+   223	Attitude;1993;9.76;887
+   224	Ain't It Fun;1993;8.06;605
+   225	Don't Damn Me;1991;9.6;729
+   226	Chinese Democracy;2008;5.78;268
+   227	Right Next Door To Hell;1991;8.44;295
+   228	New Rose;1993;6.23;509
+   229	Better;2008;7.47;791
+   230	Sorry;2008;6.03;691
+   231	Sympathy For The Devil;2004;8.2;907
+   232	Raw Power;1993;5.18;485
+   233	If The World;2008;6.41;330
+   234	Coma;1991;7.71;513
+   235	Hair Of The Dog;1993;8.9;820
+   236	Black Leather;1993;9.55;265
+   237	Shotgun Blues;1991;7.51;204
+   238	Locomotive (Complicity);1991;9.64;800
+   239	Dust N' Bones;1991;9.31;782
+   240	Pretty Tied Up (The Perils Of Rock N' Roll Decadence);1991;8.77;809
+   241	This I Love;2008;8.91;197
+   242	Open Your eyes;2004;8.7;497
+   243	Big in Japan;2000;6.14;645
+   244	Break The Line;2006;5.01;850
+   245	Lords of the Nords;2006;6.13;477
+   246	Close to the Sun;2014;7.44;570
+   247	Living in a Lie;2006;5.36;145
+   248	Lose Yourself;2017;6.51;553
+   249	Like Somebody;2014;7.63;244
+   250	Rain;2006;7.84;519
+   251	Heaven;2000;7.66;575
+   252	We Use the Pain;2009;6.42;862
+   253	Oh What A Night;2011;5.67;604
+   254	Kiss the dawn;2007;6.47;769
+   255	Mine All Mine;2000;8.0;881
+   256	Never born;2001;6.5;160
+   257	No Speech;2006;9.4;534
+   258	Hey Last Beautiful;2014;7.12;649
+   259	Dodel Up;2000;6.79;355
+   260	Sick;2006;9.4;443
+   261	When the Ships Arrive;2011;6.31;596
+   262	Innocent Greed;2000;8.29;253
+   263	Crossing the Deadline;2009;9.4;276
+   264	Sunday Lover;2011;8.9;193
+   265	Money & Milk;2000;5.42;428
+   266	Candy Love;2004;6.63;289
+   267	Don't You Turn Your Back On Me;2006;8.82;234
+   268	Fire In Your Eyes;2011;8.84;176
+   269	Numen;2014;9.24;303
+   270	Stay;2004;9.16;622
+   271	Get Busy - 2017 Mix;2017;7.97;311
+   272	This Time;2011;9.5;560
+   273	It's Not Over;2014;4.68;367
+   274	Electric Nights;2004;4.89;809
+   275	Suzie - 2017 Version;2017;7.57;467
+   276	Fanman;2011;5.83;744
+   277	Fake;2014;9.5;251
+   278	Underwear;2004;6.74;536
+   279	Precious;2017;8.03;669
+   280	Move A Little Closer - Live;2003;5.1;723
+   281	Wasserfliege - Demo Tape;2006;8.96;274
+   282	Counting The Days;2004;7.14;454
+   283	This Is Not America;2017;8.8;742
+   284	Cream Over Moon;2004;6.62;575
+   285	Score - 2017 Mix;2017;8.8;917
+   286	The Mountain;2018;5.1;120
+   287	Right Left Wrong;2018;7.1;672
+   288	I Am An Outsider;2018;8.81;480
+   289	I Hate Everything About You;2007;9.12;596
+   290	Infra-Red;2018;5.74;345
+   291	You Don't Get Me High Anymore;2016;9.58;731
+   292	Painkiller;2015;5.51;674
+   293	Animal I Have Become;2006;7.01;823
+   294	Break;2009;9.83;650
+   295	Riot;2006;6.58;158
+   296	Just Like You;2007;6.65;134
+   297	Fallen Angel;2015;5.57;761
+   298	World so Cold;2009;7.12;342
+   299	Never Too Late;2006;7.97;578
+   300	Chalk Outline;2012;9.32;218
+   301	I Am Machine;2015;8.21;269
+   302	The Good Life;2009;4.85;702
+   303	Pain;2006;4.64;474
+   304	The High Road;2012;6.62;429
+   305	Tell Me Why;2015;5.94;271
+   306	Lost in You;2009;8.77;395
+   307	Time of Dying;2006;7.24;907
+   308	Misery Loves My Company;2012;7.22;141
+   309	Home;2007;5.3;689
+   310	Last to Know;2009;7.42;400
+   311	Gone Forever;2006;6.86;398
+   312	Human Race;2015;7.0;268
+   313	Wake Up;2007;8.45;427
+   314	Bitter Taste;2009;6.28;571
+   315	So What;2015;6.31;359
+   316	Broken Glass;2012;9.71;687
+   317	Are You Ready;2007;6.73;827
+   318	Unbreakable Heart;2012;5.79;524
+   319	Scared;2007;8.22;197
+   320	Anonymous;2012;7.63;614
+   321	Monster;2009;6.58;668
+   322	Feel Invincible;2016;5.46;155
+   323	Comatose;2006;6.74;666
+   324	Not Gonna Die;2013;5.42;548
+   325	Hero;2009;8.81;555
+   326	The Resistance;2016;8.01;905
+   327	Whispers in the Dark;2006;9.3;607
+   328	Legendary;2019;6.47;565
+   329	Awake and Alive;2009;6.79;352
+   330	Rise;2013;9.44;238
+   331	Stars - The Shack Film Version;2017;5.99;438
+   332	Save Me;2019;9.07;384
+   333	Back from the Dead;2016;4.51;713
+   334	Falling Inside the Black;2006;6.56;898
+   335	Sick of It;2013;9.24;340
+   336	Finish Line;2019;6.12;404
+   337	Undefeated;2016;7.09;762
+   338	Rebirthing;2006;5.45;571
+   339	Lucy;2009;7.2;493
+   340	Circus for a Psycho;2013;5.26;708
+   341	I Want to Live;2016;9.56;175
+   342	The Last Night;2006;9.9;730
+   343	You Ain't Ready;2019;5.57;524
+   344	What I Believe;2013;5.58;837
+   345	Lions;2016;5.25;529
+   346	Those Nights;2006;9.02;706
+   347	Never Surrender;2009;9.74;305
+   348	This Is the Kingdom;2019;5.39;158
+   349	Set It Off;2017;9.36;145
+   350	Dead Man Walking;2020;6.49;128
+   351	One Day Too Late;2009;9.13;468
+   352	Victorious;2019;7.52;395
+   353	Dead Inside;2009;6.24;906
+   354	Best Kept Secret;2000;8.81;216
+   355	Freakshow;2013;5.28;384
+   356	You Get Me High;2017;5.95;152
+   357	It's Not Me, It's You;2009;5.72;883
+   358	Savior;2003;6.72;230
+   359	Terrify the Dark - Reimagined;2020;5.49;356
+   360	Brave;2017;5.29;228
+   361	Would It Matter;2009;9.86;440
+   362	Open Wounds;2003;7.46;790
+   363	Sick and Empty;2020;9.66;587
+   364	Stay 'Til the Daylight;2017;4.91;309
+   365	Forgiven;2009;6.51;854
+   366	Forsaken;2003;6.27;358
+   367	Dreaming of Eden;2020;8.45;869
+   368	Breaking Free (feat. Lacey Sturm);2017;7.36;669
+   369	Believe;2009;8.61;305
+   370	Live Free or Let Me Die;2008;7.05;196
+   371	Harvest;2020;6.7;349
+   372	Noise;2020;7.51;254
+   373	Nemo;2004;5.0;312
+   374	Amaranth;2007;5.39;489
+   375	Sleeping Sun;1998;4.9;132
+   376	How's the Heart?;2020;8.59;377
+   377	End Of All hope;2006;9.72;633
+   378	Wish I Had An Angel;2004;7.99;147
+   379	Over The Hills And Far away;2004;4.89;452
+   380	Elan;2015;7.6;205
+   381	EverDream;2008;6.71;909
+   382	The Phantom Of The Opera;2005;4.6;193
+   383	Shudder Before The Beautiful;2015;8.44;398
+   384	Bless The Child;2006;9.96;863
+   385	Shoemaker;2020;7.0;294
+   386	Alpenglow;2015;7.63;422
+   387	Dead To The World;2008;6.04;313
+   388	Gethsemane;1998;7.91;733
+   389	Weak Fantasy;2015;7.4;126
+   390	She Is My Sin - Live at Wacken 2013;2013;6.87;853
+   391	Stargazers;1998;9.8;849
+   392	Pan;2020;6.97;784
+   393	My Walden;2015;9.68;495
+   394	The Poet And The Pendulum - Remastered;2018;6.75;470
+   395	Moondance;1998;9.66;807
+   396	Endless Forms Most Beautiful;2015;4.91;497
+   397	Wishmaster;2000;7.63;148
+   398	Ghost Love Score;2004;7.15;355
+   399	Procession;2020;8.41;133
+   400	Sacrament Of Wilderness;1998;4.67;427
+   401	I Want My Tears Back;2011;4.77;610
+   402	Dark Chest Of Wonders;2004;4.76;907
+   403	The Riddler;1998;6.5;214
+   404	Astral Romance - Remake;2001;7.04;369
+   405	Turn Loose The Mermaids;2011;5.88;345
+   406	The Siren;2004;4.9;671
+   407	Dead Boy's Poem - Remastered;2018;6.96;227
+   408	Last Ride Of The Day;2011;6.77;766
+   409	Planet Hell;2004;9.28;233
+   410	High Hopes - Live;2006;8.31;465
+   411	Elvenpath - Remastered;2018;7.68;499
+   412	Storytime;2011;6.54;727
+   413	The Islander;2008;6.26;202
+   414	Bye Bye Beautiful;2007;9.46;707
+   415	Ghost River;2011;9.97;826
+   416	The Kinslayer - Remastered;2018;9.38;692
+   417	Sleepwalker;2013;6.49;671
+   418	Last Of The Wilds;2007;6.6;851
+   419	The Crow, The Owl And The Dove;2011;8.0;309
+   420	Square Hammer;2016;6.64;322
+   421	Cirice;2015;4.88;264
+   422	Dance Macabre;2018;7.98;435
+   423	He Is;2015;7.36;660
+   424	Year Zero;2013;7.38;830
+   425	Rats;2018;5.13;646
+   426	Life Eternal;2018;9.58;649
+   427	Ritual;2010;6.93;716
+   428	Faith;2018;7.93;344
+   429	From The Pinnacle To The Pit;2015;7.11;717
+   430	Mary On A Cross;2019;8.62;702
+   431	If You Have Ghosts;2013;6.15;546
+   432	Absolution;2016;5.39;729
+   433	Monstrance Clock;2013;4.51;249
+   434	Deus In Absentia;2016;8.86;331
+   435	Jigolo Har Megiddo;2013;7.65;870
+   436	Con Clavi Con Dio;2010;6.0;438
+   437	Mummy Dust;2016;7.22;389
+   438	Majesty;2016;7.83;717
+   439	Elizabeth;2010;8.5;561
+   440	Crucified;2013;8.36;229
+   441	Satan Prayer;2010;5.67;700
+   442	Genesis;2010;7.06;330
+   443	Ghuleh / Zombie Queen;2013;7.86;790
+   444	Nocturnal Me;2016;8.76;722
+   445	Bible;2016;9.77;585
+   446	Stand By Him;2010;5.42;815
+   447	Spirit;2016;4.97;542
+   448	Per Aspera Ad Inferi;2013;5.75;614
+   449	SECULAR HAZE;2013;5.38;350
+   450	Ievan Polkka;2012;8.26;592
+   451	Vodka;2009;7.1;484
+   452	Lempo;2015;4.6;566
+   453	A Man with a Plan;2016;7.88;553
+   454	Leviluhta;2020;9.69;504
+   455	Tuuleton;2021;7.61;320
+   456	Rauta;2012;6.9;330
+   457	Niemi;2021;8.77;907
+   458	Kotikonnut;2018;5.5;406
+   459	Sanaton maa;2020;5.89;593
+   460	Juodaan Viinaa;2009;8.88;167
+   461	Kunnia;2012;7.84;183
+   462	Kiuru;2021;4.77;883
+   463	Viinameen Mies;2015;9.38;895
+   464	Henkselipoika;2018;8.19;285
+   465	Ieva'S Polka;2012;6.33;525
+   466	Miero;2021;4.79;161
+   467	Sahti;2015;6.14;470
+   468	Jagermeister;2019;8.97;544
+   469	Anolan aukeat;2021;5.21;452
+   470	Tequila;2011;7.66;173
+   471	Ruumiinmultaa;2012;8.26;496
+   472	Aallon alla;2018;5.89;744
+   473	Sudenmorsian;2020;6.36;743
+   474	Juuret;2021;5.67;323
+   475	Tuonelan Tuvilla;2012;6.49;519
+   476	Verikoira;2021;9.48;313
+   477	Bring Us Pints of Beer;2009;6.12;646
+   478	Luontoni;2015;6.2;550
+   479	Mylly;2020;9.12;569
+   480	Korpikuusen kyynel;2018;6.02;428
+   481	Tuoppi Oltta;2011;7.37;744
+   482	Kultanainen;2009;5.14;756
+   483	Beer Beer - Scotland;2019;7.84;474
+   484	Land of a Thousand Drinks;2019;4.57;747
+   485	Vaarinpolkka;2011;6.49;238
+   486	Mettanpeiton Valtiaalle;2009;7.24;398
+   487	Suden joiku;2008;5.88;168
+   488	Harmaja;2018;7.79;602
+   489	Korvesta Liha;2011;9.35;812
+   490	Neito;2018;6.81;176
+   491	Louhen Yhdeksas Poika;2011;6.79;306
+   492	Another Brick in the Wall, Pt. 1, 2, 3;2010;5.12;541
+   493	Zombie;2018;6.42;297
+   494	Zombie;1994;6.31;388
+   495	Istanbul (Not Constantinople);1990;6.96;230
