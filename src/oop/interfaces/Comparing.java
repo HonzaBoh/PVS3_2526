@@ -21,19 +21,20 @@ public class Comparing {
 //        DurationComparator dc = new DurationComparator();
 //        songs.sort(dc);
 //        System.out.println(songs);
-        final Comparator<Track> BY_DURATION = new Comparator<Track>() {
-            @Override
-            public int compare(Track o1, Track o2) {
-                return Integer.compare(o1.durationSeconds, o2.durationSeconds);
-            }
-        };
+
 
         //vezmi razeni
-        songs.sort(BY_DURATION);
+        songs.sort(Track.BY_DURATION);
         System.out.println(songs);
 
         //vezmi razeni - vyhoda
-        songs.sort(BY_DURATION.reversed());
+        songs.sort(Track.BY_DURATION.reversed());
+        System.out.println(songs);
+
+
+        songs.sort(Track.BY_YEAR);
+        System.out.println(songs);
+        songs.sort(Track.BY_YEAR.reversed());
         System.out.println(songs);
     }
 }
@@ -44,12 +45,36 @@ class Track implements Comparable<Track> {
     double rating;
     int durationSeconds;
 
+    final static Comparator<Track> BY_DURATION = new Comparator<Track>() {
+        @Override
+        public int compare(Track o1, Track o2) {
+            return Integer.compare(o1.durationSeconds, o2.durationSeconds);
+        }
+    };
+
     final static Comparator<Track> BY_YEAR = new Comparator<Track>() {
         @Override
         public int compare(Track o1, Track o2) {
             return Integer.compare(o1.year, o2.year);
         }
     };
+
+    final static Comparator<Track> BY_RATING = new Comparator<Track>() {
+        @Override
+        public int compare(Track o1, Track o2) {
+            return Double.compare(o1.rating, o2.rating);
+        }
+    };
+
+    // Comparator pro name
+    final static Comparator<Track> BY_NAME = new Comparator<Track>() {
+        @Override
+        public int compare(Track o1, Track o2) {
+            return o1.name.compareTo(o2.name);
+        }
+    };
+
+
 
     public Track(String name, int year, double rating, int durationSeconds) {
         this.name = name;
