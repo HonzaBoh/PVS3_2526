@@ -7,7 +7,7 @@ Lakomec;Molière;1668;120
 Důmyslný rytíř Don Quijote de la Mancha;Miguel de Cervantes;1605;1000
 Bajky;Jean de La Fontaine;1668;400
 Robinson Crusoe;Daniel Defoe;1719;300
-Kristiánova legenda;—;10. století;80
+Kristiánova legenda;—;1000;80
 Kronika česká;Václav Hájek z Libočan;1541;550
 Labyrint světa a ráj srdce;Jan Amos Komenský;1623;220
 Chrám Matky Boží v Paříži;Victor Hugo;1831;500
@@ -91,5 +91,5 @@ Matka;Karel Čapek;1938;120
 Bílá nemoc;Karel Čapek;1937;160
 Hordubal;Karel Čapek;1933;220
 Válka s mloky;Karel Čapek;1936;320
-Osel a stín;Jan Werich; Jiří Voskovec;1933;120
-Člověk z půdy;Jiří Suchý; Jiří Šlitr;1959;120
+Osel a stín;Jan Werich a Jiří Voskovec;1933;120
+Člověk z půdy;Jiří Suchý a Jiří Šlitr;1959;120
