@@ -2,9 +2,7 @@ package oop.interfaces;
 
 import fileworks.DataImport;
 
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.Comparator;
+import java.util.*;
 
 public class Book implements Comparable<Book> {
 
@@ -56,7 +54,7 @@ public class Book implements Comparable<Book> {
         ArrayList<Book> books = new ArrayList<>();
 
         while (di.hasNext()) {
-            String parts[] = di.readLine().split(";");
+            String[] parts = di.readLine().split(";");
 
             Book b = new Book(parts[0], parts[1], Integer.parseInt(parts[2]), Integer.parseInt(parts[3]));
             books.add(b);
