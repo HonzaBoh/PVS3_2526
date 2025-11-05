@@ -1,4 +1,5 @@
 package exams;
+
 import java.util.ArrayList;
 
 /**
@@ -12,8 +13,6 @@ public class GreatTale {
      */
 //    static int wordCount(){
 //    }
-
-
     public static void main(String[] args) {
         ArrayList<String> LOTR = new ArrayList<>();
         LOTR.add("One Ring to rule them all."); //stranka #1
@@ -39,6 +38,7 @@ public class GreatTale {
 
 
 }
+
 interface Readable {
     void read();
 
@@ -49,16 +49,16 @@ interface Readable {
 /**
  * Zde je vas ukol pro implementaci dle zadani
  */
-class Book{
-        String name, author, date;
+class Book {
+    String name, author, date;
     /**
      * ID pro knihu
      */
     int IBM;
-        ArrayList<String> pages;
+    ArrayList<String> pages;
 }
 
-class TextMsg  implements Readable, Comparable<TextMsg>{
+class TextMsg implements Readable, Comparable<TextMsg> {
     String sender;
     String date;
     String text;
