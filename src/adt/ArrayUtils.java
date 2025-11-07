@@ -13,8 +13,14 @@ public class ArrayUtils {
      * @param arr celočíselné pole, jehož obsah má být vypsán
      */
     public void printArray(int[] arr) {
-        // TODO: implementovat
+        System.out.print("[");
+        for (int i = 0; i < arr.length; i++) {
+            System.out.print(" " + arr[i] + "| ");
+        }
+        System.out.print("]\n");
+
     }
+
     /**
      * Metoda porovná dvě celočíselná pole a určí, zda jsou shodná.
      * Pole jsou shodná, pokud mají stejnou délku a stejné hodnoty
@@ -25,8 +31,15 @@ public class ArrayUtils {
      * @return true pokud jsou obě pole shodná, jinak false
      */
     public boolean equals(int[] arr1, int[] arr2) {
-        // TODO: implementovat
-        return false;
+        if(arr1.length != arr2.length) return false;
+
+        for (int i = 0; i < arr1.length; i++) {
+            if(arr1[i] != arr2[i]){
+                return false;
+            }
+        }
+
+        return true;
     }
 
     /**
@@ -36,8 +49,15 @@ public class ArrayUtils {
      * @return největší nalezená hodnota v poli
      */
     public int getMax(int[] arr) {
-        // TODO: implementovat
-        return 0;
+        int max = arr[0];
+
+        for (int i = 1; i < arr.length; i++) {
+            if(arr[i] > max) {
+                max = arr[i];
+            }
+        }
+
+        return max;
     }
 
     /**
@@ -47,8 +67,15 @@ public class ArrayUtils {
      * @return nejmenší nalezená hodnota v poli
      */
     public int getMin(int[] arr) {
-        // TODO: implementovat
-        return 0;
+        int min = Integer.MAX_VALUE;
+
+        for (int i = 0; i < arr.length; i++) {
+            if(arr[i] < min) {
+                min = arr[i];
+            }
+        }
+
+        return min;
     }
 
     /**
@@ -58,8 +85,7 @@ public class ArrayUtils {
      * @return průměrná hodnota prvků pole jako desetinné číslo
      */
     public double getAverage(int[] arr) {
-        // TODO: implementovat
-        return 0;
+        return sum(arr) / arr.length;
     }
 
     /**
@@ -69,7 +95,22 @@ public class ArrayUtils {
      * @return celkový součet všech prvků v poli
      */
     public int sum(int[] arr) {
-        // TODO: implementovat
-        return 0;
+        int suma = 0;
+
+        for(int prvek : arr){
+            suma += prvek;
+        }
+
+        return suma;
+    }
+
+    public static void main(String[] args) {
+        int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
+        ArrayUtils a = new ArrayUtils();
+        a.printArray(arr);
+        System.out.println(a.getMax(arr));
+        System.out.println(a.getMin(arr));
+        System.out.println(a.getAverage(arr));
+        System.out.println(a.sum(arr));
     }
 }
