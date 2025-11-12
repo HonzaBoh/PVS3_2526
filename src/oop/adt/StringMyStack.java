@@ -1,14 +1,14 @@
-package adt;
+package oop.adt;
 
 import java.util.Arrays;
 
-public class StringStack implements Stack {
+public class StringMyStack implements MyStack {
     private static final int RESIZE_FACTOR = 2;
 
     private String[] data;
     private int top;
 
-    public StringStack(int size) {
+    public StringMyStack(int size) {
         this.data = new String[size];
         top = -1;
     }
@@ -60,7 +60,7 @@ public class StringStack implements Stack {
     }
 
     public static void main(String[] args) {
-        Stack zasobnik = new StringStack(10_000);
+        MyStack zasobnik = new StringMyStack(10_000);
 
 
         for (int i = 1; i < 10_000; i++) {

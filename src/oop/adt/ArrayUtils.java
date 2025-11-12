@@ -1,4 +1,9 @@
-package adt;
+package oop.adt;
+
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.Queue;
 
 /**
  * Pomocná třída pro práci s celočíselným polem.

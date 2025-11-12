@@ -1,4 +1,4 @@
-package adt;
+package oop.adt;
 
 /**
  * Rozhraní definující základní operace zásobníku pro řetězce (String).
@@ -14,7 +14,7 @@ package adt;
  *  <li> Odstranění rekurze </li>
  * </ol>
  */
-public interface Stack {
+public interface MyStack {
     /**
      * Vloží řetězec na vrchol zásobníku.
      *
