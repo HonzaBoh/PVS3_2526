@@ -45,7 +45,6 @@ public class Queues {
 
         //nativne
         Queue<Player> also = new LinkedList<>();
-
     }
 
 }
