@@ -1,4 +1,3 @@
-Kind remainder -> praktický test na kolekce {Stack, Queue, Set, List} ve středu 3.12
 Robin,A+,Female,63
 Robin,A+,Male,24
 Sam,O-,Female,65
