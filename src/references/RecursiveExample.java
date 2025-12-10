@@ -18,7 +18,14 @@ public class RecursiveExample {
     }
 
     public static void main(String[] args) {
-//        saharaCount(1);
-        System.out.println(factorial(5));
+        try{
+            saharaCount(1);
+        } catch (StackOverflowError se){
+            System.out.println("Dosla stack pamet");
+            System.out.println("Chyba: " + se.getMessage());
+            se.printStackTrace();
+        }
+//        System.out.println(factorial(5));
+        System.out.println("happy ending!");
     }
 }

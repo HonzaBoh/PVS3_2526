@@ -1,5 +1,7 @@
 package oop.adt;
 
+import java.util.EmptyStackException;
+
 /**
  * Rozhraní definující základní operace zásobníku pro řetězce (String).
  * Zásobník je datová struktura typu LIFO (Last In, First Out),
@@ -28,7 +30,7 @@ public interface MyStack {
      *
      * @return hodnota z vrcholu zásobníku
      */
-    String pop();
+    String pop() throws EmptyStackException;
 
     /**
      * Vrátí hodnotu z vrcholu zásobníku, aniž by ji odstranila.
@@ -36,7 +38,7 @@ public interface MyStack {
      *
      * @return hodnota z vrcholu zásobníku
      */
-    String peek();
+    String peek()  throws EmptyStackException;
 
     /**
      * Zjišťuje, zda je zásobník prázdný.

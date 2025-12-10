@@ -1,6 +1,7 @@
 package oop.adt;
 
 import java.util.Arrays;
+import java.util.EmptyStackException;
 
 public class StringMyStack implements MyStack {
     private static final int RESIZE_FACTOR = 2;
@@ -29,7 +30,7 @@ public class StringMyStack implements MyStack {
     public String pop() {
         if(isEmpty()){
             System.out.println("Empty Stack");
-            return null;
+            throw new EmptyStackException();
         }
 
         String toReturn = data[top];
@@ -43,7 +44,7 @@ public class StringMyStack implements MyStack {
     public String peek() {
         if(isEmpty()){
             System.out.println("Empty Stack");
-            return null;
+            throw new EmptyStackException();
         }
 
         return data[top];
