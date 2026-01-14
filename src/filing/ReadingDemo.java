@@ -67,7 +67,6 @@ public class ReadingDemo {
                 System.out.println(l);
             }
 
-
         } catch (FileNotFoundException e) {
             System.out.println("File does not exist!");
         } catch (IOException io){
