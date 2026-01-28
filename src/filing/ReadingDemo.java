@@ -67,6 +67,14 @@ public class ReadingDemo {
                 System.out.println(l);
             }
 
+
+            FileInputStream inputStream = new FileInputStream(path);
+            int a;
+            while ((a = inputStream.read()) != -1){
+                System.out.println((char) a);
+            }
+            inputStream.close();
+
         } catch (FileNotFoundException e) {
             System.out.println("File does not exist!");
         } catch (IOException io){
