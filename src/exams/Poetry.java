@@ -41,7 +41,9 @@ public class Poetry {
         }
 
         for(File file : dir.listFiles()){
-            if(!file.toPath().endsWith(extension)){
+            // POZOR! metoda endsWith existuje i ve třídě Paths a kontroluje něco jiného, než jen koncovku souboru!
+            // getPath() vrací řetězec, nad kterým endsWith již doopravdy porovnává jenom konec.
+            if(!file.getPath().endsWith(extension)){
                 continue;
             }
 
@@ -55,7 +57,4 @@ public class Poetry {
         return filtered;
     }
 
-    public static boolean endsWithThatWorks(String path, String ext){
-        return path.split("\\.")[1].equals(ext);
-    }
 }
