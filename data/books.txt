@@ -1,95 +1,95 @@
-Bible: Starý zákon (Genesis);Bůh;-65000000;120
-Dekameron;Giovanni Boccaccio;1353;900
-Romeo a Julie;William Shakespeare;1597;160
-Hamlet;William Shakespeare;1603;220
-Zkrocení zlé ženy;William Shakespeare;1594;180
-Lakomec;Molière;1668;120
-Důmyslný rytíř Don Quijote de la Mancha;Miguel de Cervantes;1605;1000
-Bajky;Jean de La Fontaine;1668;400
-Robinson Crusoe;Daniel Defoe;1719;300
-Kristiánova legenda;—;1000;80
-Kronika česká;Václav Hájek z Libočan;1541;550
-Labyrint světa a ráj srdce;Jan Amos Komenský;1623;220
-Chrám Matky Boží v Paříži;Victor Hugo;1831;500
-Otec Goriot;Honoré de Balzac;1835;320
-Revizor;Nikolaj Vasiljevič Gogol;1836;150
-Oliver Twist;Charles Dickens;1838;480
-Jáma a kyvadlo (výbor povídek);Edgar Allan Poe;1842;200
-Tři mušketýři;Alexandre Dumas;1844;700
-Paní Bovaryová;Gustave Flaubert;1857;400
-Květy zla;Charles Baudelaire;1857;300
-Zločin a trest;Fjodor Michajlovič Dostojevskij;1866;600
-Alenka v říši divů (a Za zrcadlem);Lewis Carroll;1865;320
-Zabiják;Émile Zola;1877;500
-Kulička (a jiné povídky);Guy de Maupassant;1880;150
-Ostrov pokladů;Robert Louis Stevenson;1883;320
-Ohlas písní ruských;František Ladislav Čelakovský;1829;150
-Ohlas písní českých;František Ladislav Čelakovský;1839;200
-Tyrolské elegie;Karel Havlíček Borovský;1850;80
-Máj;Karel Hynek Mácha;1836;120
-Kytice z pověstí národních;Karel Jaromír Erben;1853;240
-Babička;Božena Němcová;1855;360
-Povídky malostranské;Jan Neruda;1878;360
-Balady a romance;Jan Neruda;1883;200
-Svatý Xaverius;Jakub Arbes;1873;150
-Nový epochální výlet pana Broučka, tentokráte do 15. století;Svatopluk Čech;1888;220
-Selské písně a České znělky;Josef Václav Sládek;1890;200
-Tři legendy o krucifixu;Julius Zeyer;1880;160
-Staré pověsti české;Alois Jirásek;1894;400
-Divotvorný klobouk;Václav Kliment Klicpera;1826;120
-Strakonický dudák;Josef Kajetán Tyl;1847;120
-Noc na Karlštejně;Jaroslav Vrchlický;1884;150
-Maryša;Alois a Vilém Mrštíkové;1894;120
-Na západní frontě klid;Erich Maria Remarque;1929;300
-Lolita;Vladimir Nabokov;1955;340
-Malý princ;Antoine de Saint-Exupéry;1943;120
-Horalka;Alberto Moravia;1957;200
-Egypťan Sinuhet;Mika Waltari;1945;800
-Petr a Lucie;Romain Rolland;1920;120
-Stařec a moře;Ernest Hemingway;1952;130
-Proměna;Franz Kafka;1915;120
-Hlava XXII;Joseph Heller;1961;460
-Na cestě;Jack Kerouac;1957;320
-Pán prstenů: Společenstvo prstenu;J. R. R. Tolkien;1954;480
-Sophiina volba;William Styron;1979;640
-Jméno růže;Umberto Eco;1980;550
-Farma zvířat;George Orwell;1945;120
-Kaligramy (Básně — obrazy);Guillaume Apollinaire;1918;200
-Višňový sad;Anton Pavlovič Čechov;1904;120
-Pygmalion;George Bernard Shaw;1912;160
-Kočka na rozpálené plechové střeše;Tennessee Williams;1955;180
-Osudy dobrého vojáka Švejka za světové války;Jaroslav Hašek;1921;750
-Golet v údolí;Ivan Olbracht;1937;200
-Rozmarné léto;Vladislav Vančura;1926;120
-Cirkus Humberto;Eduard Bass;1941;600
-Bylo nás pět;Karel Poláček;1946;180
-Život s hvězdou;Jiří Weil;1949;200
-Spalovač mrtvol;Ladislav Fuks;1967;180
-Adelheid;Václav Kaplický Körner;1967;200
-Milenci a vrazi;Vladimír Páral;1969;400
-Mladý muž a bílá velryba;Vladimír Páral;1973;320
-Ostře sledované vlaky;Bohumil Hrabal;1965;120
-Obsluhoval jsem anglického krále;Bohumil Hrabal;1971;280
-Směšné lásky;Milan Kundera;1968;260
-Nesnesitelná lehkost bytí;Milan Kundera;1984;340
-Zbabělci;Josef Škvorecký;1958;400
-Němá barikáda;Jan Drda;1946;220
-Smrt krásných srnců;Ota Pavel;1971;160
-Přítelkyně z domu smutku;Eva Kantůrková;1984;400
-Báječná léta pod psa;Michal Viewegh;1992;280
-Po nás ať přijde potopa!;František Gellner;1901;120
-Slezské písně;Petr Bezruč;1909;220
-Těžká hodina;Jiří Wolker;1922;120
-Na vlnách TSF;Jaroslav Seifert;1925;120
-Edison;Vítězslav Nezval;1928;120
-S lodí, jež dováží čaj a kávu;Konstantin Biebl;1927;120
-Hirošima;František Hrubín;1946;80
-Nové mýty;Josef Kainar;1946;160
-Blues pro bláznivou holku;Václav Hrabě;1965;120
-R.U.R.;Karel Čapek;1920;160
-Matka;Karel Čapek;1938;120
-Bílá nemoc;Karel Čapek;1937;160
-Hordubal;Karel Čapek;1933;220
-Válka s mloky;Karel Čapek;1936;320
-Osel a stín;Jan Werich a Jiří Voskovec;1933;120
-Člověk z půdy;Jiří Suchý a Jiří Šlitr;1959;120
+Bible: Starý zákon (Genesis);Bůh;-65000000;120;4,90
+Dekameron;Giovanni Boccaccio;1353;900;3,71
+Romeo a Julie;William Shakespeare;1597;160;2,91
+Hamlet;William Shakespeare;1603;220;3,61
+Zkrocení zlé ženy;William Shakespeare;1594;180;2,88
+Lakomec;Molière;1668;120;2,13
+Důmyslný rytíř Don Quijote de la Mancha;Miguel de Cervantes;1605;1000;2,93
+Bajky;Jean de La Fontaine;1668;400;1,76
+Robinson Crusoe;Daniel Defoe;1719;300;3,84
+Kristiánova legenda;Jan Legenda;1000;80;4,13
+Kronika česká;Václav Hájek z Libočan;1541;550;4,03
+Labyrint světa a ráj srdce;Jan Amos Komenský;1623;220;2,15
+Chrám Matky Boží v Paříži;Victor Hugo;1831;500;2,88
+Otec Goriot;Honoré de Balzac;1835;320;1,28
+Revizor;Nikolaj Vasiljevič Gogol;1836;150;2,63
+Oliver Twist;Charles Dickens;1838;480;4,94
+Jáma a kyvadlo (výbor povídek);Edgar Allan Poe;1842;200;1,98
+Tři mušketýři;Alexandre Dumas;1844;700;3,81
+Paní Bovaryová;Gustave Flaubert;1857;400;1,49
+Květy zla;Charles Baudelaire;1857;300;1,27
+Zločin a trest;Fjodor Michajlovič Dostojevskij;1866;600;3,59
+Alenka v říši divů (a Za zrcadlem);Lewis Carroll;1865;320;2,48
+Zabiják;Émile Zola;1877;500;3,94
+Kulička (a jiné povídky);Guy de Maupassant;1880;150;2,25
+Ostrov pokladů;Robert Louis Stevenson;1883;320;2,89
+Ohlas písní ruských;František Ladislav Čelakovský;1829;150;2,26
+Ohlas písní českých;František Ladislav Čelakovský;1839;200;2,57
+Tyrolské elegie;Karel Havlíček Borovský;1850;80;4,00
+Máj;Karel Hynek Mácha;1836;120;2,72
+Kytice z pověstí národních;Karel Jaromír Erben;1853;240;2,36
+Babička;Božena Němcová;1855;360;3,10
+Povídky malostranské;Jan Neruda;1878;360;4,28
+Balady a romance;Jan Neruda;1883;200;4,10
+Svatý Xaverius;Jakub Arbes;1873;150;2,32
+Nový epochální výlet pana Broučka, tentokráte do 15. století;Svatopluk Čech;1888;220;2,66
+Selské písně a České znělky;Josef Václav Sládek;1890;200;4,66
+Tři legendy o krucifixu;Julius Zeyer;1880;160;3,16
+Staré pověsti české;Alois Jirásek;1894;400;2,57
+Divotvorný klobouk;Václav Kliment Klicpera;1826;120;3,84
+Strakonický dudák;Josef Kajetán Tyl;1847;120;2,46
+Noc na Karlštejně;Jaroslav Vrchlický;1884;150;3,56
+Maryša;Alois a Vilém Mrštíkové;1894;120;1,79
+Na západní frontě klid;Erich Maria Remarque;1929;300;1,55
+Lolita;Vladimir Nabokov;1955;340;4,25
+Malý princ;Antoine de Saint-Exupéry;1943;120;3,35
+Horalka;Alberto Moravia;1957;200;3,63
+Egypťan Sinuhet;Mika Waltari;1945;800;4,08
+Petr a Lucie;Romain Rolland;1920;120;2,43
+Stařec a moře;Ernest Hemingway;1952;130;3,75
+Proměna;Franz Kafka;1915;120;4,64
+Hlava XXII;Joseph Heller;1961;460;1,15
+Na cestě;Jack Kerouac;1957;320;4,31
+Pán prstenů: Společenstvo prstenu;J. R. R. Tolkien;1954;480;3,24
+Sophiina volba;William Styron;1979;640;4,90
+Jméno růže;Umberto Eco;1980;550;2,98
+Farma zvířat;George Orwell;1945;120;1,07
+Kilogramy (Básně — obrazy);Guillaume Apollinaire;1918;200;4,31
+Višňový sad;Anton Pavlovič Čechov;1904;120;2,20
+Pygmalion;George Bernard Shaw;1912;160;2,41
+Kočka na rozpálené plechové střeše;Tennessee Williams;1955;180;1,76
+Osudy dobrého vojáka Švejka za světové války;Jaroslav Hašek;1921;750;2,30
+Golet v údolí;Ivan Olbracht;1937;200;4,22
+Rozmarné léto;Vladislav Vančura;1926;120;2,71
+Cirkus Humberto;Eduard Bass;1941;600;2,23
+Bylo nás pět;Karel Poláček;1946;180;3,17
+Život s hvězdou;Jiří Weil;1949;200;1,32
+Spalovač mrtvol;Ladislav Fuks;1967;180;3,57
+Adelheid;Václav Kaplický Körner;1967;200;1,45
+Milenci a vrazi;Vladimír Páral;1969;400;2,66
+Mladý muž a bílá velryba;Vladimír Páral;1973;320;4,39
+Ostře sledované vlaky;Bohumil Hrabal;1965;120;2,83
+Obsluhoval jsem anglického krále;Bohumil Hrabal;1971;280;1,07
+Směšné lásky;Milan Kundera;1968;260;4,37
+Nesnesitelná lehkost bytí;Milan Kundera;1984;340;2,44
+Zbabělci;Josef Škvorecký;1958;400;3,78
+Němá barikáda;Jan Drda;1946;220;1,73
+Smrt krásných srnců;Ota Pavel;1971;160;1,02
+Přítelkyně z domu smutku;Eva Kantůrková;1984;400;2,44
+Báječná léta pod psa;Michal Viewegh;1992;280;3,07
+Po nás ať přijde potopa!;František Gellner;1901;120;4,90
+Slezské písně;Petr Bezruč;1909;220;2,32
+Těžká hodina;Jiří Wolker;1922;120;4,44
+Na vlnách TSF;Jaroslav Seifert;1925;120;2,18
+Edison;Vítězslav Nezval;1928;120;2,54
+S lodí, jež dováží čaj a kávu;Konstantin Biebl;1927;120;3,90
+Hirošima;František Hrubín;1946;80;4,31
+Nové mýty;Josef Kainar;1946;160;2,96
+Blues pro bláznivou holku;Václav Hrabě;1965;120;3,55
+R.U.R.;Karel Čapek;1920;160;1,61
+Matka;Karel Čapek;1938;120;2,75
+Bílá nemoc;Karel Čapek;1937;160;4,24
+Hordubal;Karel Čapek;1933;220;2,32
+Válka s mloky;Karel Čapek;1936;320;1,30
+Osel a stín;Jan Werich a Jiří Voskovec;1933;120;3,63
+Člověk z půdy;Jiří Suchý a Jiří Šlitr;1959;120;3,27
