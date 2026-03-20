@@ -1,5 +1,6 @@
 package filing.serials.playlists;
 
+import java.io.Serial;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
@@ -19,6 +20,9 @@ public class Playlist implements Serializable {
      * Jmeno pro playlist filmu
      */
     String name;
+
+    @Serial
+    private static final long serialVersionUID = 1L;
 
     /**
      * Konstruktor pro vytvoreni playlistu rovnou s nejakou sadou filmu
