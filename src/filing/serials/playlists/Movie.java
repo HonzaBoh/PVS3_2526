@@ -1,15 +1,9 @@
 package filing.serials.playlists;
-
-import java.io.Serial;
-import java.io.Serializable;
-
-public class Movie implements Serializable {
+public class Movie {
     String name;
     int yearOfRelease;
     double rating;
     int duration;
-    @Serial
-    private static final long serialVersionUID = 1L;
 
     public Movie(String name, int yearOfRelease, double rating, int duration) {
         this.name = name;
@@ -20,7 +14,7 @@ public class Movie implements Serializable {
 
     @Override
     public String toString(){
-        return name + " (" + yearOfRelease + ")";
+        return (name + " (" + yearOfRelease + ")");
     }
 
     public String getName() {
@@ -54,4 +48,5 @@ public class Movie implements Serializable {
     public void setDuration(int duration) {
         this.duration = duration;
     }
+    //a vse pro vas potrebne
 }

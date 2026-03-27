@@ -1,5 +1,6 @@
 package streams;
 
+import java.awt.event.KeyListener;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -56,6 +57,11 @@ public class LambdaBasics {
             }
         };
 
+        MathFunction alsoMultiplication = (a, b) -> a*b; //jen jako single-line
+        MathFunction alsoAlsoMultiplication = (a,b) -> {
+            System.out.println(a + "*" + b + "=");
+            return a*b;
+        };
         printResult(add, 5, 6);
         printResult(sub, 10, 4);
 
