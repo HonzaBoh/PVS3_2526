@@ -7,7 +7,7 @@ Andorra;Europe;78000;83.5
 Netherlands Antilles;North America;217000;74.7
 United Arab Emirates;Asia;2441000;74.1
 Argentina;South America;37032000;75.1
-Armenia;Asia;3520000;66.4
+Armenia;Asia;3520000;1366.4
 American Samoa;Oceania;68000;75.1
 Antigua and Barbuda;North America;68000;70.5
 Australia;Oceania;18886000;79.8

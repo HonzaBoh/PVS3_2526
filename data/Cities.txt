@@ -1,0 +1,148 @@
+Helsinki,Finland,Europe
+Espoo,Finland,Europe
+Tampere,Finland,Europe
+Oulu,Finland,Europe
+Turku,Finland,Europe
+Reykjavik,Iceland,Europe
+Akureyri,Iceland,Europe
+Hafnarfjörður,Iceland,Europe
+Kópavogur,Iceland,Europe
+Stockholm,Sweden,Europe
+Gothenburg,Sweden,Europe
+Malmö,Sweden,Europe
+Oslo,Norway,Europe
+Bergen,Norway,Europe
+Trondheim,Norway,Europe
+Copenhagen,Denmark,Europe
+Aarhus,Denmark,Europe
+Helsinki,Finland,Europe
+London,United Kingdom,Europe
+Edinburgh,United Kingdom,Europe
+Manchester,United Kingdom,Europe
+Birmingham,United Kingdom,Europe
+Paris,France,Europe
+Lyon,France,Europe
+Marseille,France,Europe
+Toulouse,France,Europe
+Berlin,Germany,Europe
+Munich,Germany,Europe
+Hamburg,Germany,Europe
+Frankfurt,Germany,Europe
+Rome,Italy,Europe
+Milan,Italy,Europe
+Naples,Italy,Europe
+Turin,Italy,Europe
+Madrid,Spain,Europe
+Barcelona,Spain,Europe
+Valencia,Spain,Europe
+Seville,Spain,Europe
+Lisbon,Portugal,Europe
+Porto,Portugal,Europe
+Athens,Greece,Europe
+Thessaloniki,Greece,Europe
+Vienna,Austria,Europe
+Salzburg,Austria,Europe
+Zurich,Switzerland,Europe
+Geneva,Switzerland,Europe
+Brussels,Belgium,Europe
+Antwerp,Belgium,Europe
+Amsterdam,Netherlands,Europe
+Rotterdam,Netherlands,Europe
+Warsaw,Poland,Europe
+Kraków,Poland,Europe
+Prague,Czech Republic,Europe
+Brno,Czech Republic,Europe
+Budapest,Hungary,Europe
+Bucharest,Romania,Europe
+Sofia,Bulgaria,Europe
+Belgrade,Serbia,Europe
+Zagreb,Croatia,Europe
+Sarajevo,Bosnia and Herzegovina,Europe
+Skopje,North Macedonia,Europe
+Tirana,Albania,Europe
+Ljubljana,Slovenia,Europe
+Bratislava,Slovakia,Europe
+Tallinn,Estonia,Europe
+Riga,Latvia,Europe
+Vilnius,Lithuania,Europe
+Kiev,Ukraine,Europe
+Istanbul,Turkey,Asia
+Tokyo,Japan,Asia
+Osaka,Japan,Asia
+Kyoto,Japan,Asia
+Beijing,China,Asia
+Shanghai,China,Asia
+Shenzhen,China,Asia
+New Delhi,India,Asia
+Mumbai,India,Asia
+Bangalore,India,Asia
+Seoul,South Korea,Asia
+Busan,South Korea,Asia
+Singapore,Singapore,Asia
+Bangkok,Thailand,Asia
+Kuala Lumpur,Malaysia,Asia
+Jakarta,Indonesia,Asia
+Manila,Philippines,Asia
+Ho Chi Minh City,Vietnam,Asia
+Hanoi,Vietnam,Asia
+Dubai,United Arab Emirates,Asia
+Riyadh,Saudi Arabia,Asia
+Tel Aviv,Israel,Asia
+Cairo,Egypt,Africa
+Johannesburg,South Africa,Africa
+Lagos,Nigeria,Africa
+Nairobi,Kenya,Africa
+Casablanca,Morocco,Africa
+Addis Ababa,Ethiopia,Africa
+Mexico City,Mexico,North America
+Guadalajara,Mexico,North America
+Monterrey,Mexico,North America
+New York City,United States,North America
+Los Angeles,United States,North America
+Chicago,United States,North America
+Toronto,Canada,North America
+Vancouver,Canada,North America
+Montreal,Canada,North America
+Ottawa,Canada,North America
+Guatemala City,Guatemala,North America
+Tegucigalpa,Honduras,North America
+San Salvador,El Salvador,North America
+San Jose,Costa Rica,North America
+Panama City,Panama,North America
+Bogota,Colombia,South America
+Medellin,Colombia,South America
+Cali,Colombia,South America
+Lima,Peru,South America
+Cusco,Peru,South America
+Santiago,Chile,South America
+Valparaiso,Chile,South America
+Buenos Aires,Argentina,South America
+Cordoba,Argentina,South America
+Rosario,Argentina,South America
+Montevideo,Uruguay,South America
+Asunción,Paraguay,South America
+La Paz,Bolivia,South America
+Santa Cruz,Bolivia,South America
+Caracas,Venezuela,South America
+Maracaibo,Venezuela,South America
+Quito,Ecuador,South America
+Guayaquil,Ecuador,South America
+São Paulo,Brazil,South America
+Rio de Janeiro,Brazil,South America
+Salvador,Brazil,South America
+Brasília,Brazil,South America
+Recife,Brazil,South America
+Fortaleza,Brazil,South America
+Kingston,Jamaica,North Amrica
+Havana,Cuba,North America
+Santo Domingo,Dominican Republic,North America
+Port-au-Prince,Haiti,North America
+Reykjavik,Iceland,Europe
+Ísafjörður,Iceland,Europe
+Vaasa,Finland,Europe
+Lahti,Finland,Europe
+Kuopio,Finland,Europe
+Nicosia,Cyprus,Europe
+Luxembourg City,Luxembourg,Europe
+Valletta,Malta,Europe
+Reykjavik,Iceland,Europe
