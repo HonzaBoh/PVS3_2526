@@ -3,6 +3,7 @@ package Streams;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
+import java.util.IntSummaryStatistics;
 import java.util.List;
 
 public class CountryStreaming {
@@ -25,11 +26,36 @@ public class CountryStreaming {
                 );
             }
             
-            countries.stream().
-                    map(Country::getContinent).
-                    distinct().
-                    forEach(System.out::println);
+            long worldPopulation = countries.stream().
+                    mapToLong(Country::getPopulation).
+                    sum();
+            System.out.println("Celková populace je " + worldPopulation);
             
+            double avgPopulation = countries.stream().
+                    mapToInt(Country::getPopulation).
+                    average().
+                    orElse(0);
+            System.out.println("Průměrná populace je " + avgPopulation);
+
+            IntSummaryStatistics statistics = countries.stream()
+                    .mapToInt(Country::getPopulation)
+                    .summaryStatistics();
+            System.out.println("Statistiky: " + statistics);
+            
+            int totalPopulationOfNA = countries.stream()
+                    .filter(Country -> Country.getContinent().equalsIgnoreCase("North America"))
+                    .mapToInt(Country::getPopulation)
+                    .sum();
+            System.out.println("Celková populace v Severní Americe je " + totalPopulationOfNA);
+            
+            double avgLifeOfAsia = countries.stream()
+                    .filter(country -> country.getContinent().equalsIgnoreCase("Asia"))
+                    .mapToDouble(Country::getAvgLife)
+                    .average()
+                    .orElse(0);
+            System.out.println("Průměrná délka života v Asii je " + avgLifeOfAsia);
+            
+            int 
             
         } catch (Exception e) {
             throw new RuntimeException(e);

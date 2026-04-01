@@ -1,4 +1,5 @@
 Aruba;North America;103000;78.4
+Corupt;Asia;22720000;1000
 Afghanistan;Asia;22720000;45.9
 Angola;Africa;12878000;38.3
 Anguilla;North America;8000;76.1
