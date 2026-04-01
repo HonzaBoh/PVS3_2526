@@ -55,13 +55,25 @@ public class CountryStreaming {
                     .orElse(0);
             System.out.println("Průměrná délka života v Asii je " + avgLifeOfAsia);
             
-            int 
-            
+            ArrayList<String> continents = new ArrayList<>();
+            for (Country country : countries) {
+                if (!continents.contains(country.getContinent())) {
+                    continents.add(country.getContinent());
+                }
+            }
+            System.out.println("Kontinenty: " + continents);
+            for (String continent : continents) {
+                int stateCountOfEaachContinent = Math.toIntExact(countries.stream()
+                        .filter(country -> country.getContinent().equalsIgnoreCase(continent))
+                        .count());
+                System.out.println("Počet států v " + continent + " je " + stateCountOfEaachContinent);
+            }
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
             
     }
+    
     
     
 }
