@@ -3,37 +3,47 @@ package streams;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
-import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
 public class MovieMapping {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
         String path = "data/Movies.txt";
 
         try {
             List<Movie> movies = Files.lines(Path.of(path))
-                    //idk co mam napsat do filtru a pokud to ma cenu ho tady pouzivat
-                    .map(line -> line.split(";"))
+                    .map(line -> line.trim().split(";"))
+                    .filter(parts -> parts.length == 4)
                     .map(parts -> new Movie(
                             parts[0],
                             Integer.parseInt(parts[1]),
                             Double.parseDouble(parts[2]),
-                            Integer.parseInt(parts[3]))
-                    )
+                            Integer.parseInt(parts[3])
+                    ))
                     .toList();
 
-            //System.out.println(movies); - vypise vsechno do jedne radky
-            //forEach - vypise  Movie - info
-            //                  Movie - info
             movies.forEach(System.out::println);
 
-            //nechapu jak vypsat avg... a jak z toho udelat Avg
-            Map<Integer, List<Movie>> byYear = movies.stream()
-                    .collect(Collectors.groupingBy(Movie::getYear));
+            Map<String, Movie> byName = movies.stream()
+                    .collect(Collectors.toMap(
+                            Movie::getName,
+                            movie -> movie
+                    ));
 
-            System.out.println(byYear);
+            System.out.println("Movies by name:");
+            System.out.println(byName);
+
+            Map<Integer, Double> avgRatingByYear = movies.stream()
+                    .collect(Collectors.groupingBy(
+                            Movie::getYear,
+                            Collectors.averagingDouble(Movie::getRating)
+                    ));
+
+            System.out.println("Average rating by year:");
+            avgRatingByYear.forEach((year, avg) ->
+                    System.out.println(year + " -> " + avg)
+            );
 
         } catch (IOException e) {
             System.err.println("Something went wrong with reading a file");
@@ -41,16 +51,18 @@ public class MovieMapping {
     }
 }
 
-//Vytvořit class Movie - good
-//Načíst ze souboru všechny Movie - good
-//načíst do mapy Movie podle jména - good
-//Podle roku vydání filmu počítat average rating
-
 class Movie {
-    String name;
-    int year;
-    double rating;
-    int delka;
+    private String name;
+    private int year;
+    private double rating;
+    private int delka;
+
+    public Movie(String name, int year, double rating, int delka) {
+        this.name = name;
+        this.year = year;
+        this.rating = rating;
+        this.delka = delka;
+    }
 
     @Override
     public String toString() {
@@ -65,38 +77,31 @@ class Movie {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public int getYear() {
         return year;
-    }
-
-    public void setYear(int year) {
-        this.year = year;
     }
 
     public double getRating() {
         return rating;
     }
 
-    public void setRating(double rating) {
-        this.rating = rating;
-    }
-
     public int getDelka() {
         return delka;
     }
 
-    public void setDelka(int delka) {
-        this.delka = delka;
+    public void setName(String name) {
+        this.name = name;
     }
 
-    public Movie(String name, int year, double rating, int delka) {
-        this.name = name;
+    public void setYear(int year) {
         this.year = year;
+    }
+
+    public void setRating(double rating) {
         this.rating = rating;
+    }
+
+    public void setDelka(int delka) {
         this.delka = delka;
     }
 }
