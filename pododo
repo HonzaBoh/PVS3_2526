@@ -1,0 +1,122 @@
+package streams.maps;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+public class LibraryMapping {
+
+    static Book parseLine(String[] token) {
+        if (token.length == 2)
+            return new Book(token[0], Integer.parseInt(token[1]));
+
+        if (token.length == 3)
+            return new Book(token[0], Integer.parseInt(token[1]), Integer.parseInt(token[2]));
+
+        return null;
+    }
+
+    public static void main(String[] args) throws IOException {
+        Map<String, Book> mapByTitle = Files.lines(Path.of("data/books.txt"))
+                .map(line -> line.trim().split(";"))
+                .map(LibraryMapping::parseLine)
+                .collect(Collectors.toMap(
+                        Book::getTitle,
+                        book -> book
+                ));
+
+        Files.lines(Path.of("data/bookOperations.txt"))
+                .map(line -> line.trim().split(";"))
+                .forEach(parts -> {
+                    Book book = mapByTitle.get(parts[1]);
+
+                    if (book == null) return;
+
+                    book.processOperation(parts[0], Integer.parseInt(parts[2]));
+                });
+
+        System.out.println("Successful operations: " + Book.successfulOperations);
+        System.out.println("Failed operations: " + Book.failedOperations);
+
+        mapByTitle.forEach((title, book) ->
+                System.out.println(title + " -> " + book.getCopies())
+        );
+    }
+}
+
+class Book {
+    private String title;
+    private int copies;
+    private int maxCopies;
+
+    static int successfulOperations = 0;
+    static int failedOperations = 0;
+
+    public Book(String title, int copies) {
+        this.title = title;
+        this.copies = copies;
+        this.maxCopies = Integer.MAX_VALUE;
+    }
+
+    public Book(String title, int copies, int maxCopies) {
+        this.title = title;
+        this.copies = copies;
+        this.maxCopies = maxCopies;
+    }
+
+    public String getTitle() {
+        return title;
+    }
+
+    public int getCopies() {
+        return copies;
+    }
+
+    public int getMaxCopies() {
+        return maxCopies;
+    }
+
+    public void setTitle(String title) {
+        this.title = title;
+    }
+
+    public void setCopies(int copies) {
+        this.copies = copies;
+    }
+
+    public void setMaxCopies(int maxCopies) {
+        this.maxCopies = maxCopies;
+    }
+
+    public void processOperation(String type, int amount) {
+        if (amount < 0) {
+            System.out.println("Amount has to be greater than 0.");
+            failedOperations++;
+            return;
+        }
+
+        if (type.equals("RETURN") && (this.copies + amount) > maxCopies) {
+            System.out.println("Too many copies in library.");
+            failedOperations++;
+            return;
+        }
+
+        if (type.equals("BORROW") && (this.copies - amount) < 0) {
+            System.out.println("Not enough copies to borrow.");
+            failedOperations++;
+            return;
+        }
+
+        if (type.equals("RETURN")) {
+            this.copies += amount;
+            successfulOperations++;
+        }
+
+        if (type.equals("BORROW")) {
+            this.copies -= amount;
+            successfulOperations++;
+        }
+    }
+}
