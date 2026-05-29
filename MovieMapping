@@ -1,0 +1,102 @@
+package streams;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+public class MovieMapping {
+    public static void main(String[] args) throws IOException {
+        String path = "data/Movies.txt";
+
+        try {
+            List<Movie> movies = Files.lines(Path.of(path))
+                    //idk co mam napsat do filtru a pokud to ma cenu ho tady pouzivat
+                    .map(line -> line.split(";"))
+                    .map(parts -> new Movie(
+                            parts[0],
+                            Integer.parseInt(parts[1]),
+                            Double.parseDouble(parts[2]),
+                            Integer.parseInt(parts[3]))
+                    )
+                    .toList();
+
+            //System.out.println(movies); - vypise vsechno do jedne radky
+            //forEach - vypise  Movie - info
+            //                  Movie - info
+            movies.forEach(System.out::println);
+
+            //nechapu jak vypsat avg... a jak z toho udelat Avg
+            Map<Integer, List<Movie>> byYear = movies.stream()
+                    .collect(Collectors.groupingBy(Movie::getYear));
+
+            System.out.println(byYear);
+
+        } catch (IOException e) {
+            System.err.println("Something went wrong with reading a file");
+        }
+    }
+}
+
+//Vytvořit class Movie - good
+//Načíst ze souboru všechny Movie - good
+//načíst do mapy Movie podle jména - good
+//Podle roku vydání filmu počítat average rating
+
+class Movie {
+    String name;
+    int year;
+    double rating;
+    int delka;
+
+    @Override
+    public String toString() {
+        return "Movie -- " +
+                "name='" + name + '\'' +
+                ", year=" + year +
+                ", rating=" + rating +
+                ", delka=" + delka;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getYear() {
+        return year;
+    }
+
+    public void setYear(int year) {
+        this.year = year;
+    }
+
+    public double getRating() {
+        return rating;
+    }
+
+    public void setRating(double rating) {
+        this.rating = rating;
+    }
+
+    public int getDelka() {
+        return delka;
+    }
+
+    public void setDelka(int delka) {
+        this.delka = delka;
+    }
+
+    public Movie(String name, int year, double rating, int delka) {
+        this.name = name;
+        this.year = year;
+        this.rating = rating;
+        this.delka = delka;
+    }
+}
