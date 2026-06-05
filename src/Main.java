@@ -11,6 +11,7 @@ public class Main {
         while (sc.hasNext()){
             System.out.println(sc.next());
         }
+        System.out.println("nevim");
 
 //        for (int a = 5, b = 20;a < 50; Sysem.out.println(a) ){
 //            System.out.println(":(");
